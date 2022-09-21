@@ -1,4 +1,4 @@
-package IO;
+package L001.IO;
 
 import java.util.Scanner;
 

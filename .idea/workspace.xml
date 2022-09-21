@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c3bd358-4154-4f3e-9835-838e843fecd8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="4c3bd358-4154-4f3e-9835-838e843fecd8" name="Changes" comment="if zad1 done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IF/Zad001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IF/Zad001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IF/Zad001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L001/IF/Zad001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IO/Zad001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L001/IO/Zad001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IO/Zad002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L001/IO/Zad002.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,11 +40,11 @@
 }]]></component>
   <component name="RunManager" selected="Application.Zad001">
     <configuration name="Zad001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IF.Zad001" />
+      <option name="MAIN_CLASS_NAME" value="L001.IO.IF.Zad001" />
       <module name="WebApp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="IF.*" />
+          <option name="PATTERN" value="L001.IO.IF.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,8 +74,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663785003280</updated>
-      <workItem from="1663785009898" duration="3529000" />
+      <workItem from="1663785009898" duration="4407000" />
     </task>
+    <task id="LOCAL-00001" summary="if zad1 done">
+      <created>1663793201658</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663793201658</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,5 +102,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="if zad1 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="if zad1 done" />
   </component>
 </project>
