@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c3bd358-4154-4f3e-9835-838e843fecd8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/IF/Zad002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IF/Zad003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LOOPS/Zad001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LOOPS/Zad002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LOOPS/Zad003.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="4c3bd358-4154-4f3e-9835-838e843fecd8" name="Changes" comment="some of loop exercise">
+      <change afterPath="$PROJECT_DIR$/src/LOOPS/Zad004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LOOPS/Zad005.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,20 +44,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Zad003">
-    <configuration name="IF.Zad003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IF.Zad003" />
-      <module name="WebApp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="IF.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Zad005">
     <configuration name="LOOPS.Zad001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LOOPS.Zad001" />
       <module name="WebApp" />
@@ -88,19 +71,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zad002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IF.Zad002" />
-      <module name="WebApp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="IF.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Zad003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LOOPS.Zad003" />
       <module name="WebApp" />
@@ -114,13 +84,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Zad004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LOOPS.Zad004" />
+      <module name="WebApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LOOPS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zad005" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LOOPS.Zad005" />
+      <module name="WebApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LOOPS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zad005" />
+        <item itemvalue="Application.Zad004" />
         <item itemvalue="Application.Zad003" />
         <item itemvalue="Application.LOOPS.Zad002" />
         <item itemvalue="Application.LOOPS.Zad001" />
-        <item itemvalue="Application.IF.Zad003" />
-        <item itemvalue="Application.Zad002" />
       </list>
     </recent_temporary>
   </component>
@@ -133,8 +129,16 @@
       <option name="presentableId" value="Default" />
       <updated>1663785003280</updated>
       <workItem from="1663785009898" duration="3529000" />
-      <workItem from="1663838573925" duration="2487000" />
+      <workItem from="1663838573925" duration="4592000" />
     </task>
+    <task id="LOCAL-00001" summary="some of loop exercise">
+      <created>1663842133397</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663842133397</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,5 +157,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="some of loop exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="some of loop exercise" />
   </component>
 </project>
