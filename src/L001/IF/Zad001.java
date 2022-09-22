@@ -1,4 +1,4 @@
-package IF;
+package L001.IF;
 
 import java.util.Scanner;
 
