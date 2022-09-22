@@ -1,4 +1,4 @@
-package LOOPS;
+package L001.LOOPS;
 
 public class Zad003 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package LOOPS;
+package L001.LOOPS;
 
 import java.util.Scanner;
 
