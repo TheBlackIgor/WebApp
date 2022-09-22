@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c3bd358-4154-4f3e-9835-838e843fecd8" name="Changes" comment="more">
+    <list default="true" id="4c3bd358-4154-4f3e-9835-838e843fecd8" name="Changes" comment="correction">
+      <change afterPath="$PROJECT_DIR$/src/L001/ARRAYS/Slimak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L001/LOOPS/Zad006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L001/LOOPS/Zad007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L001/LOOPS/Zad008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L001/LOOPS/Zad009.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L001/LOOPS/Zad010.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,13 +48,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Zad005">
-    <configuration name="LOOPS.Zad001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LOOPS.Zad001" />
+  <component name="RunManager" selected="Application.Slimak">
+    <configuration name="Slimak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L001.ARRAYS.Slimak" />
       <module name="WebApp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LOOPS.*" />
+          <option name="PATTERN" value="L001.ARRAYS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LOOPS.Zad002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LOOPS.Zad002" />
+    <configuration name="Zad007" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L001.LOOPS.Zad007" />
       <module name="WebApp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LOOPS.*" />
+          <option name="PATTERN" value="L001.LOOPS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zad003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LOOPS.Zad003" />
+    <configuration name="Zad008" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L001.LOOPS.Zad008" />
       <module name="WebApp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LOOPS.*" />
+          <option name="PATTERN" value="L001.LOOPS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zad004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LOOPS.Zad004" />
+    <configuration name="Zad009" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L001.LOOPS.Zad009" />
       <module name="WebApp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LOOPS.*" />
+          <option name="PATTERN" value="L001.LOOPS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zad005" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LOOPS.Zad005" />
+    <configuration name="Zad010" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L001.LOOPS.Zad010" />
       <module name="WebApp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LOOPS.*" />
+          <option name="PATTERN" value="L001.LOOPS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Zad005" />
-        <item itemvalue="Application.Zad004" />
-        <item itemvalue="Application.Zad003" />
-        <item itemvalue="Application.LOOPS.Zad002" />
-        <item itemvalue="Application.LOOPS.Zad001" />
+        <item itemvalue="Application.Slimak" />
+        <item itemvalue="Application.Zad010" />
+        <item itemvalue="Application.Zad009" />
+        <item itemvalue="Application.Zad008" />
+        <item itemvalue="Application.Zad007" />
       </list>
     </recent_temporary>
   </component>
@@ -127,7 +133,7 @@
       <option name="presentableId" value="Default" />
       <updated>1663785003280</updated>
       <workItem from="1663785009898" duration="3529000" />
-      <workItem from="1663838573925" duration="5248000" />
+      <workItem from="1663838573925" duration="14977000" />
     </task>
     <task id="LOCAL-00001" summary="some of loop exercise">
       <created>1663842133397</created>
@@ -143,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663844203465</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="correction">
+      <created>1663846610034</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663846610034</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +177,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="some of loop exercise" />
     <MESSAGE value="more" />
-    <option name="LAST_COMMIT_MESSAGE" value="more" />
+    <MESSAGE value="correction" />
+    <option name="LAST_COMMIT_MESSAGE" value="correction" />
   </component>
 </project>
