@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c3bd358-4154-4f3e-9835-838e843fecd8" name="Changes" comment="correction">
-      <change afterPath="$PROJECT_DIR$/src/L001/ARRAYS/Slimak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L001/LOOPS/Zad006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L001/LOOPS/Zad007.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L001/LOOPS/Zad008.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L001/LOOPS/Zad009.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L001/LOOPS/Zad010.java" afterDir="false" />
+    <list default="true" id="4c3bd358-4154-4f3e-9835-838e843fecd8" name="Changes" comment="slimak">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L002/Zad001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L002/Zad002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L002/Zad003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L002/Zad004.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Zad003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L001/IO/Zad003.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -36,19 +39,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
-  <component name="RunManager" selected="Application.Slimak">
+}]]></component>
+  <component name="RunManager" selected="Application.Zad004">
     <configuration name="Slimak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="L001.ARRAYS.Slimak" />
       <module name="WebApp" />
@@ -62,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zad007" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L001.LOOPS.Zad007" />
+    <configuration name="Zad001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L002.Zad001" />
       <module name="WebApp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="L001.LOOPS.*" />
+          <option name="PATTERN" value="L002.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zad008" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L001.LOOPS.Zad008" />
+    <configuration name="Zad002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L002.Zad002" />
       <module name="WebApp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="L001.LOOPS.*" />
+          <option name="PATTERN" value="L002.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zad009" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L001.LOOPS.Zad009" />
+    <configuration name="Zad003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L002.Zad003" />
       <module name="WebApp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="L001.LOOPS.*" />
+          <option name="PATTERN" value="L002.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zad010" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L001.LOOPS.Zad010" />
+    <configuration name="Zad004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L002.Zad004" />
       <module name="WebApp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="L001.LOOPS.*" />
+          <option name="PATTERN" value="L002.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zad004" />
+        <item itemvalue="Application.Zad003" />
+        <item itemvalue="Application.Zad002" />
+        <item itemvalue="Application.Zad001" />
         <item itemvalue="Application.Slimak" />
-        <item itemvalue="Application.Zad010" />
-        <item itemvalue="Application.Zad009" />
-        <item itemvalue="Application.Zad008" />
-        <item itemvalue="Application.Zad007" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +137,8 @@
       <option name="presentableId" value="Default" />
       <updated>1663785003280</updated>
       <workItem from="1663785009898" duration="3529000" />
-      <workItem from="1663838573925" duration="14977000" />
+      <workItem from="1663838573925" duration="15132000" />
+      <workItem from="1663917114872" duration="6432000" />
     </task>
     <task id="LOCAL-00001" summary="some of loop exercise">
       <created>1663842133397</created>
@@ -156,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663846610034</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="slimak">
+      <created>1663879269355</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663879269358</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,6 +190,7 @@
     <MESSAGE value="some of loop exercise" />
     <MESSAGE value="more" />
     <MESSAGE value="correction" />
-    <option name="LAST_COMMIT_MESSAGE" value="correction" />
+    <MESSAGE value="slimak" />
+    <option name="LAST_COMMIT_MESSAGE" value="slimak" />
   </component>
 </project>

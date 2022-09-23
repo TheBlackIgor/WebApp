@@ -1,3 +1,5 @@
+package L001.IO;
+
 import java.util.Scanner;
 
 public class Zad003 {
