@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class Zad005 {
     public static void main(String[] args) {
-         System.out.println(printDiament('}'));
+         System.out.println(printDiament('Z'));
     }
     static String printDiament(char c){
         ArrayList<String> tab = new ArrayList<>();
