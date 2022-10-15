@@ -1,6 +1,13 @@
-import java.util.Arrays;
+import java.util.*;
 
 public class test {
+
+    static String formatSth(String... args){
+        return Arrays.toString(args);
+    }
+    static String[] formatSth2(String... args){
+        return args;
+    }
 
     public static void main(String[] args) {
         System.out.println("zad1");
@@ -30,6 +37,46 @@ public class test {
 //        String[] strings = new String[3];
 //        Arrays.fill(strings, "x");
 //        System.out.println(Arrays.toString(strings));
+        System.out.println(formatSth("a","b","c","d"));
+        System.out.println(Arrays.toString(formatSth2("d","e","f")));
+
+        Set<String> set1 = new HashSet<>();
+        set1.add("a");
+        set1.add("b");
+        set1.add("c");
+        set1.add("a");
+        set1.add("a");
+
+        System.out.println(set1);
+
+        Map<String, Integer> map = new HashMap<String, Integer>();
+
+        map.put("a", 100);
+        map.put("b", 200);
+        map.put("c", 300);
+        map.put("d", 400);
+        map.put("a", 200);
+
+        System.out.println(map);
+        System.out.println(map.get("a"));
+        Map<String, Integer> map1 = new HashMap<>(){
+            {
+                put("a", 100);
+                put("b", 200);
+                put("c", 300);
+            }
+        };
+
+
+        for (String key : map1.keySet()) {
+            System.out.println(key + ":" + map1.get(key));
+        }
+        for (Integer value : map1.values()) {
+            System.out.println(value);
+        }
+        for (Map.Entry<String, Integer> entry : map1.entrySet()) {
+            System.out.println(entry.getKey() + ":" + entry.getValue());
+        }
     }
 
 }
