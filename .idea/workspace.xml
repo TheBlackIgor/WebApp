@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c3bd358-4154-4f3e-9835-838e843fecd8" name="Changes" comment="if zad1 done">
+    <list default="true" id="4c3bd358-4154-4f3e-9835-838e843fecd8" name="Changes" comment="going to sleep">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IF/Zad001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L001/IF/Zad001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IO/Zad001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L001/IO/Zad001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IO/Zad002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L001/IO/Zad002.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,18 +23,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Zad001">
     <configuration name="Zad001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="L001.IO.IF.Zad001" />
@@ -74,7 +71,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663785003280</updated>
-      <workItem from="1663785009898" duration="4407000" />
+      <workItem from="1663785009898" duration="4446000" />
+      <workItem from="1665860669203" duration="381000" />
     </task>
     <task id="LOCAL-00001" summary="if zad1 done">
       <created>1663793201658</created>
@@ -83,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663793201658</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="going to sleep">
+      <created>1663797200076</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663797200076</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +108,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="if zad1 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="if zad1 done" />
+    <MESSAGE value="going to sleep" />
+    <option name="LAST_COMMIT_MESSAGE" value="going to sleep" />
   </component>
 </project>
