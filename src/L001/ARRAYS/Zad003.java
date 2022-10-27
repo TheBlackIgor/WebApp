@@ -2,7 +2,7 @@ package L001.ARRAYS;
 
 import java.util.Arrays;
 
-public class Zad0033 {
+public class Zad003 {
     public static void main(String[] args) {
         int l = 0;
         int[] tab = {0,1,2,3,4,5,5,5,5,5,3,4,5};
