@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4c3bd358-4154-4f3e-9835-838e843fecd8" name="Changes" comment="collections and functions">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L003/Zad007.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L003/Zad007.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +133,13 @@
       <workItem from="1663917114872" duration="6522000" />
       <workItem from="1663931449453" duration="6888000" />
       <workItem from="1665126874474" duration="11600000" />
-      <workItem from="1665560700992" duration="3751000" />
+      <workItem from="1665560700992" duration="4382000" />
+      <workItem from="1666000556932" duration="651000" />
+      <workItem from="1666338033676" duration="87000" />
+      <workItem from="1666339846915" duration="683000" />
+      <workItem from="1666348407275" duration="63000" />
+      <workItem from="1666426403992" duration="597000" />
+      <workItem from="1666693747856" duration="1219000" />
     </task>
     <task id="LOCAL-00001" summary="some of loop exercise">
       <created>1663842133397</created>
@@ -185,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665561641939</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="collections and functions">
+      <created>1665860636418</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1665860636419</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
