@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c3bd358-4154-4f3e-9835-838e843fecd8" name="Changes" comment="collections and functions">
-      <change afterPath="$PROJECT_DIR$/src/L001/ARRAYS/Zad001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L001/ARRAYS/Zad002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/L001/ARRAYS/Zad0033.java" afterDir="false" />
+    <list default="true" id="4c3bd358-4154-4f3e-9835-838e843fecd8" name="Changes" comment="first lesson algos">
+      <change afterPath="$PROJECT_DIR$/src/L002/Zad007.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/L001/ARRAYS/Zad0033.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L001/ARRAYS/Zad003.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +46,20 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Zad0033">
+  <component name="RunManager" selected="Application.L002.Zad007">
+    <configuration name="L002.Zad007" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L002.Zad007" />
+      <module name="WebApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="L002.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Zad001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="L001.ARRAYS.Zad001" />
       <module name="WebApp" />
@@ -74,25 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zad0033" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L001.ARRAYS.Zad0033" />
+    <configuration name="Zad003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L001.ARRAYS.Zad003" />
       <module name="WebApp" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="L001.ARRAYS.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Zad006" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L003.Zad006" />
-      <module name="WebApp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="L003.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +114,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Zad0033" />
+        <item itemvalue="Application.L002.Zad007" />
         <item itemvalue="Application.Zad002" />
         <item itemvalue="Application.Zad001" />
         <item itemvalue="Application.Zad007" />
-        <item itemvalue="Application.Zad006" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +135,7 @@
       <workItem from="1663931449453" duration="6888000" />
       <workItem from="1665126874474" duration="11600000" />
       <workItem from="1665560700992" duration="3751000" />
-      <workItem from="1666435411502" duration="4752000" />
+      <workItem from="1666435411502" duration="10159000" />
     </task>
     <task id="LOCAL-00001" summary="some of loop exercise">
       <created>1663842133397</created>
@@ -188,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665561641939</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="first lesson algos">
+      <created>1666444743690</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1666444743690</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,6 +217,7 @@
     <MESSAGE value="correction" />
     <MESSAGE value="slimak" />
     <MESSAGE value="collections and functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="collections and functions" />
+    <MESSAGE value="first lesson algos" />
+    <option name="LAST_COMMIT_MESSAGE" value="first lesson algos" />
   </component>
 </project>
