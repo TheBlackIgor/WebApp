@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c3bd358-4154-4f3e-9835-838e843fecd8" name="Changes" comment="collections and functions">
+      <change afterPath="$PROJECT_DIR$/src/L003/Zad008.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/L003/Zad007.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L003/Zad007.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +46,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Zad007">
+  <component name="RunManager" selected="Application.Zad008">
     <configuration name="L003.Zad005 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="L003.Zad005" />
       <module name="WebApp" />
@@ -60,19 +62,6 @@
     </configuration>
     <configuration name="L003.Zad005" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="L003.Zad005" />
-      <module name="WebApp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="L003.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Zad004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L003.Zad004" />
       <module name="WebApp" />
       <extension name="coverage">
         <pattern>
@@ -110,13 +99,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Zad008" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L003.Zad008" />
+      <module name="WebApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="L003.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zad008" />
         <item itemvalue="Application.Zad007" />
         <item itemvalue="Application.Zad006" />
         <item itemvalue="Application.L003.Zad005 (1)" />
         <item itemvalue="Application.L003.Zad005" />
-        <item itemvalue="Application.Zad004" />
       </list>
     </recent_temporary>
   </component>
@@ -140,6 +142,7 @@
       <workItem from="1666348407275" duration="63000" />
       <workItem from="1666426403992" duration="597000" />
       <workItem from="1666693747856" duration="1219000" />
+      <workItem from="1666856666805" duration="8689000" />
     </task>
     <task id="LOCAL-00001" summary="some of loop exercise">
       <created>1663842133397</created>
@@ -197,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665860636419</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="collections and functions">
+      <created>1666857119672</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1666857119673</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
