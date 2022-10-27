@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c3bd358-4154-4f3e-9835-838e843fecd8" name="Changes" comment="collections and functions">
+      <change afterPath="$PROJECT_DIR$/src/L002/Zad0052.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L002/diament.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L003/Zad007.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L003/Zad007.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +46,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Zad007">
+  <component name="RunManager" selected="Application.diament">
     <configuration name="L003.Zad005 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="L003.Zad005" />
       <module name="WebApp" />
@@ -59,25 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L003.Zad005" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L003.Zad005" />
+    <configuration name="Zad0052" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L002.Zad0052" />
       <module name="WebApp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="L003.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Zad004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L003.Zad004" />
-      <module name="WebApp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="L003.*" />
+          <option name="PATTERN" value="L002.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,13 +99,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="diament" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L002.diament" />
+      <module name="WebApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="L002.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.diament" />
+        <item itemvalue="Application.Zad0052" />
         <item itemvalue="Application.Zad007" />
         <item itemvalue="Application.Zad006" />
         <item itemvalue="Application.L003.Zad005 (1)" />
-        <item itemvalue="Application.L003.Zad005" />
-        <item itemvalue="Application.Zad004" />
       </list>
     </recent_temporary>
   </component>
